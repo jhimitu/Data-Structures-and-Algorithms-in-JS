@@ -1,2 +1,9 @@
 # Data-Structures-and-Algorithms-in-JS
-A repo for practicing not only DS&amp;As but also testing
+A repo for implementations of common data structures
+
+## Data Structures
+* [Linked List](./src/linked-list-implementation/README.linked-list.md)
+
+* [Stack](./src/stack-implementation/README.stack.md)
+
+* [Queue](./src/queue-implementation/README.queue.md)

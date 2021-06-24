@@ -1,0 +1,23 @@
+{
+  "name": "Data-Structures-and-Algorithms-in-JS",
+  "version": "1.0.0",
+  "description": "A repo for implementations of common data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhimitu/Data-Structures-and-Algorithms-in-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhimitu/Data-Structures-and-Algorithms-in-JS/issues"
+  },
+  "homepage": "https://github.com/jhimitu/Data-Structures-and-Algorithms-in-JS#readme",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
